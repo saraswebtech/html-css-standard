@@ -1,4 +1,4 @@
-# The Nerdery Front-end Coding Standards
+# The Front-end Coding Standards
 
 ## Table of Contents
   1. [Overview](#overview)
